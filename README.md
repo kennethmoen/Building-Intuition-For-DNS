@@ -2,7 +2,7 @@
 <img src="https://github.com/kennethmoen/Building-Intuition-For-DNS/assets/145589069/d6192fbb-d4fb-4f62-b6ed-806da21dc4ff"/>
 </p>
 <p 
-In this lab will be inspecting DNS A-Records on the server, creating and deleting some of our own A-Records on the server (DC-1) and inspecting them from Client-1
+In this lab will be inspecting DNS A-Records on the server, creating and deleting some of our own A-Records on the server (DC-1), inspecting them from Client-1 and exploring the importance of the flush dns command
 </p>
 <h1>A-Record Exercise</h1>
 - Connect/log into DC-1 as your domain admin account (mydomain.com\jane_admin)
